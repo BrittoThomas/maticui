@@ -1,0 +1,20 @@
+{
+  "title": "MATIC",
+  "localization_button_title": "عربى",
+  "matic_description1": "Book a cleaning instantly",
+  "button_title_signin_with_facebook": "Sign up with Facebook",
+  "button_title_signup": "Sign up",
+  "button_title_signin": "Already have an account?  Sign In",
+  "button_title_continue_guest": "Continue as Guest",
+  "terms_and_privacy_title" : "By creating an account you agree to our",
+  "button_title_terms_and_privacy" : "Terms of Service and Privacy Policy",
+  "tab_title_home": "Home",
+  "tab_title_mybookings": "My Bookings",
+  "tab_title_profile": "Profile",
+  "profile_section_title_promocode": "Promo codes",
+  "profile_section_title_payment": "Payments",
+  "profile_section_title_inbox": "Inbox",
+  "profile_section_title_help": "Help",
+  "profile_section_title_legal": "Legal",
+  "button_title_logout": "Logout"
+}

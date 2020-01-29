@@ -1,0 +1,20 @@
+{
+  "title": "ماتيتش",
+  "localization_button_title": "English",
+  "matic_description1": "حجز التنظيف على الفور",
+  "button_title_signin_with_facebook": "اشترك عبر حساب فايسبوك",
+  "button_title_signup": "سجل",
+  "button_title_signin": "هل لديك حساب؟ تسجيل الدخول",
+  "button_title_continue_guest": "تواصل كضيف",
+  "terms_and_privacy_title" : "بإنشاء حساب ، فإنك توافق على",
+  "button_title_terms_and_privacy" : "بنود الخدمة وخصوصية السياسة",
+  "tab_title_home": "الصفحة الرئيسية",
+  "tab_title_mybookings": "حجوزاتي",
+  "tab_title_profile": "الملف الشخصي",
+  "profile_section_title_promocode": "رموز الترويجي",
+  "profile_section_title_payment": "المدفوعات",
+  "profile_section_title_inbox": "صندوق الوارد",
+  "profile_section_title_help": "مساعدة",
+  "profile_section_title_legal": "قانوني",
+  "button_title_logout": "تسجيل خروج"
+}
