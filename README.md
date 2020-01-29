@@ -1,6 +1,23 @@
 # matic
 
-A new Flutter application.
+UI recreaction of matic app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
